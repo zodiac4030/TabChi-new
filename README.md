@@ -2,13 +2,13 @@
 <h1><p align="center">تبلیغ‌گر
 <h2><p align="center">سرعت 💠 دقت 💠 قدرت
 <div align="center">
-    <a href="https://telegram.me/ramtintzbot">
+    <a href="https://telegram.me/amir_cpd">
         <img src="http://upir.ir/951/guest/Untitled-5.png" hspace="10" width="150">
     </a>
-    <a href="https://telegram.me/tabchisell">
+    <a href="https://telegram.me/shasholozhi">
         <img src="http://upir.ir/951/guest/Untitled-7.png" hspace="10" width="150">
     </a>
-    <a href="https://telegram.me/ramtintz">
+    <a href="https://telegram.me/amir_cpd">
         <img src="http://upir.ir/951/guest/Untitled-6.png" width="150">
     </a>
 </div>
@@ -319,6 +319,6 @@
 <h2 dir="rtl">پشتیبانی
 <hr>
 <h4 dir="rtl">پذیرای انتقادات وپیشنهاداتان هستیم ♚ TabChiSell ♚ <a href="https://telegram.me/ramtintz"> @amir_cpd </a> 
-br>راهنمای استفاده از تبلیغ‌گر بسیار ساده و قابل درک است<br>فیلم آموزشی نصب و اطلاع از آخرین اخبار تبلیغ‌گر در کانال ما 
-<a href="https://telegram.me/tabchisell"> @tabchisell</a>
+<br>راهنمای استفاده از تبلیغ‌گر بسیار ساده و قابل درک است<br>فیلم آموزشی نصب و اطلاع از آخرین اخبار تبلیغ‌گر در کانال ما 
+<a href="https://telegram.me/tabchisell"> @shasholozhi</a>
 </h4>
